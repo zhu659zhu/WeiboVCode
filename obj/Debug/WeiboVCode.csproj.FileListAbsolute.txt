@@ -1,0 +1,9 @@
+D:\我的文档\c#\WeiboVCode\WeiboVCode\bin\Debug\WeiboVCode.exe.config
+D:\我的文档\c#\WeiboVCode\WeiboVCode\bin\Debug\WeiboVCode.exe
+D:\我的文档\c#\WeiboVCode\WeiboVCode\bin\Debug\WeiboVCode.pdb
+D:\我的文档\c#\WeiboVCode\WeiboVCode\obj\Debug\WeiboVCode.csprojResolveAssemblyReference.cache
+D:\我的文档\c#\WeiboVCode\WeiboVCode\obj\Debug\WeiboVCode.Form1.resources
+D:\我的文档\c#\WeiboVCode\WeiboVCode\obj\Debug\WeiboVCode.Properties.Resources.resources
+D:\我的文档\c#\WeiboVCode\WeiboVCode\obj\Debug\WeiboVCode.csproj.GenerateResource.Cache
+D:\我的文档\c#\WeiboVCode\WeiboVCode\obj\Debug\WeiboVCode.exe
+D:\我的文档\c#\WeiboVCode\WeiboVCode\obj\Debug\WeiboVCode.pdb
